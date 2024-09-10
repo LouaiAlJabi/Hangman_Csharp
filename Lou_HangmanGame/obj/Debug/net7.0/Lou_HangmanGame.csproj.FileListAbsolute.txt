@@ -1,0 +1,15 @@
+/Users/louai.aijabi/Projects/Lou_HangmanGame/Lou_HangmanGame/bin/Debug/net7.0/Lou_HangmanGame
+/Users/louai.aijabi/Projects/Lou_HangmanGame/Lou_HangmanGame/bin/Debug/net7.0/Lou_HangmanGame.deps.json
+/Users/louai.aijabi/Projects/Lou_HangmanGame/Lou_HangmanGame/bin/Debug/net7.0/Lou_HangmanGame.runtimeconfig.json
+/Users/louai.aijabi/Projects/Lou_HangmanGame/Lou_HangmanGame/bin/Debug/net7.0/Lou_HangmanGame.dll
+/Users/louai.aijabi/Projects/Lou_HangmanGame/Lou_HangmanGame/bin/Debug/net7.0/Lou_HangmanGame.pdb
+/Users/louai.aijabi/Projects/Lou_HangmanGame/Lou_HangmanGame/obj/Debug/net7.0/Lou_HangmanGame.csproj.AssemblyReference.cache
+/Users/louai.aijabi/Projects/Lou_HangmanGame/Lou_HangmanGame/obj/Debug/net7.0/Lou_HangmanGame.GeneratedMSBuildEditorConfig.editorconfig
+/Users/louai.aijabi/Projects/Lou_HangmanGame/Lou_HangmanGame/obj/Debug/net7.0/Lou_HangmanGame.AssemblyInfoInputs.cache
+/Users/louai.aijabi/Projects/Lou_HangmanGame/Lou_HangmanGame/obj/Debug/net7.0/Lou_HangmanGame.AssemblyInfo.cs
+/Users/louai.aijabi/Projects/Lou_HangmanGame/Lou_HangmanGame/obj/Debug/net7.0/Lou_HangmanGame.csproj.CoreCompileInputs.cache
+/Users/louai.aijabi/Projects/Lou_HangmanGame/Lou_HangmanGame/obj/Debug/net7.0/Lou_HangmanGame.dll
+/Users/louai.aijabi/Projects/Lou_HangmanGame/Lou_HangmanGame/obj/Debug/net7.0/refint/Lou_HangmanGame.dll
+/Users/louai.aijabi/Projects/Lou_HangmanGame/Lou_HangmanGame/obj/Debug/net7.0/Lou_HangmanGame.pdb
+/Users/louai.aijabi/Projects/Lou_HangmanGame/Lou_HangmanGame/obj/Debug/net7.0/Lou_HangmanGame.genruntimeconfig.cache
+/Users/louai.aijabi/Projects/Lou_HangmanGame/Lou_HangmanGame/obj/Debug/net7.0/ref/Lou_HangmanGame.dll
